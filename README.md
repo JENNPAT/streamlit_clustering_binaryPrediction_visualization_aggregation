@@ -1,4 +1,4 @@
-# streamlit_churn_prediction
+# Churn (Binary)
 
 **streamlit link:** https://churnpredictionjenpat.streamlit.app/
 
